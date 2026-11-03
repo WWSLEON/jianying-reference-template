@@ -1,0 +1,4 @@
+interface:
+  display_name: "剪映参考复刻模板"
+  short_description: "按参考视频制作剪映换图模板，复用资源与原生关键帧，减少试稿和导出轮次"
+  default_prompt: "使用 $jianying-reference-template 按参考制作剪映可编辑换图模板，优先复用已验收方案并完成原生验收。"

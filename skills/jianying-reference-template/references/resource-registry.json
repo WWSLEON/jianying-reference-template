@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "scope": "public_historical_catalog_candidates_no_media_or_local_paths",
+  "resources": [
+    {
+      "name": "光斑虚焦",
+      "resource_id": "7693070251269000472",
+      "kind": "effect",
+      "aliases": [
+        "圆盘",
+        "虚焦",
+        "复焦",
+        "散景"
+      ],
+      "official_bundle_md5": "fb2ea6dbcaf09baca630cdbedf9db5be",
+      "capability": "独立特效轨；参数关键帧已原生验证。预热后用大小控制真实缩核。",
+      "last_verified_app_version": "11.6.0",
+      "status": "historical_candidate_requires_native_verification_on_receiving_machine",
+      "bundle_distributed": false,
+      "native_render_verified_on_receiving_machine": false,
+      "visual_match_is_not_source_project_identity": true,
+      "historical_selection_note": "selected_true_circle"
+    },
+    {
+      "name": "金粉",
+      "resource_id": "7395457728996527412",
+      "kind": "effect",
+      "aliases": [
+        "粒子",
+        "金色"
+      ],
+      "official_bundle_md5": "f7c6335535c3ad76898fcd5c6e39ee53",
+      "capability": "照片片段作用；本案例贯穿，可复用官方包。",
+      "last_verified_app_version": "11.6.0",
+      "status": "historical_candidate_requires_native_verification_on_receiving_machine",
+      "bundle_distributed": false,
+      "native_render_verified_on_receiving_machine": false,
+      "visual_match_is_not_source_project_identity": true,
+      "historical_selection_note": "selected"
+    },
+    {
+      "name": "星星环绕",
+      "resource_id": "7575043671070870825",
+      "kind": "effect",
+      "aliases": [
+        "星星",
+        "环绕"
+      ],
+      "official_bundle_md5": "26b052e287416a6838c9a78812f6f0c1",
+      "capability": "独立特效轨，需按新参考重标时间窗。",
+      "last_verified_app_version": "11.6.0",
+      "status": "historical_candidate_requires_native_verification_on_receiving_machine",
+      "bundle_distributed": false,
+      "native_render_verified_on_receiving_machine": false,
+      "visual_match_is_not_source_project_identity": true,
+      "historical_selection_note": "selected"
+    },
+    {
+      "name": "羽毛",
+      "resource_id": "7399497406619864335",
+      "kind": "effect",
+      "aliases": [
+        "羽毛",
+        "飘落"
+      ],
+      "official_bundle_md5": "4edc03c6b9e1836a29754a6e31876559",
+      "capability": "独立特效轨，需按新参考重标时间窗。",
+      "last_verified_app_version": "11.6.0",
+      "status": "historical_candidate_requires_native_verification_on_receiving_machine",
+      "bundle_distributed": false,
+      "native_render_verified_on_receiving_machine": false,
+      "visual_match_is_not_source_project_identity": true,
+      "historical_selection_note": "selected"
+    },
+    {
+      "name": "梦蝶",
+      "resource_id": "7399497301049216290",
+      "kind": "effect",
+      "aliases": [
+        "蝴蝶",
+        "烟环"
+      ],
+      "official_bundle_md5": "b89cc8fa6841777251f77aac20515008",
+      "capability": "独立特效轨；本案例观测存在首帧可见延迟，要按实际导出定时。",
+      "last_verified_app_version": "11.6.0",
+      "status": "historical_candidate_requires_native_verification_on_receiving_machine",
+      "bundle_distributed": false,
+      "native_render_verified_on_receiving_machine": false,
+      "visual_match_is_not_source_project_identity": true,
+      "historical_selection_note": "selected"
+    },
+    {
+      "name": "星火炸开",
+      "resource_id": "7399492319059119400",
+      "kind": "effect",
+      "aliases": [
+        "星火",
+        "火花",
+        "金白闪"
+      ],
+      "official_bundle_md5": "3e91874cbb34aa57014b9efb15774b10",
+      "capability": "右侧金白首闪后橙色火星；非椭圆光带。",
+      "last_verified_app_version": "11.6.0",
+      "status": "historical_candidate_requires_native_verification_on_receiving_machine",
+      "bundle_distributed": false,
+      "native_render_verified_on_receiving_machine": false,
+      "visual_match_is_not_source_project_identity": true,
+      "historical_selection_note": "selected"
+    },
+    {
+      "name": "泛白",
+      "resource_id": "6949828109663212045",
+      "kind": "transition",
+      "aliases": [
+        "曝白",
+        "曝光",
+        "单峰",
+        "闪白"
+      ],
+      "official_bundle_md5": "f75ae1b9b8a905737a9124e1c2373798",
+      "capability": "单峰曝光；本案例覆盖设置is_overlap=true并实测，暖色辉光/原作者ID无法确认。",
+      "last_verified_app_version": "11.6.0",
+      "status": "historical_candidate_requires_native_verification_on_receiving_machine",
+      "bundle_distributed": false,
+      "native_render_verified_on_receiving_machine": false,
+      "visual_match_is_not_source_project_identity": true,
+      "historical_selection_note": "selected_visual_approximation"
+    },
+    {
+      "name": "彩色滑片",
+      "resource_id": "7437386424036381234",
+      "kind": "transition",
+      "aliases": [
+        "黑白",
+        "彩色",
+        "斜向",
+        "滑片"
+      ],
+      "official_bundle_md5": "304713b7a1d72d524b8beccc11a1307a",
+      "capability": "黑白基底配斜向镜像彩色滑片，本案例结构匹配。",
+      "last_verified_app_version": "11.6.0",
+      "status": "historical_candidate_requires_native_verification_on_receiving_machine",
+      "bundle_distributed": false,
+      "native_render_verified_on_receiving_machine": false,
+      "visual_match_is_not_source_project_identity": true,
+      "historical_selection_note": "selected_visual_structure"
+    },
+    {
+      "name": "亮点模糊",
+      "resource_id": "7123135366504124936",
+      "kind": "transition",
+      "aliases": [
+        "虚焦",
+        "弱散景",
+        "模糊"
+      ],
+      "official_bundle_md5": "8201fabdd755f236590816e8871084ae",
+      "capability": "弱圆环散景；不适合本例的大平滑圆盘复焦，放大稀疏采样会出点阵。",
+      "last_verified_app_version": "11.6.0",
+      "status": "historical_candidate_requires_native_verification_on_receiving_machine",
+      "bundle_distributed": false,
+      "native_render_verified_on_receiving_machine": false,
+      "visual_match_is_not_source_project_identity": true,
+      "historical_selection_note": "not_selected_for_this_case"
+    }
+  ]
+}
